@@ -1,0 +1,13 @@
+Kernel Features Selected
+
++retpoline
++SME
++memory error recovery
++transparent huge pages
++acpi2platform device support
++nvme
++i2c
++hfs/hfs+
++non standard nvdimm support
++hd audio support
++EFI FB for VESA
